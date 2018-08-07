@@ -1,7 +1,7 @@
 # write your method here
 
 def crazy_strings
-puts "Hello","Friends" 
+puts "#{Hello}","#{Friends}" 
 end
 
-crazy_strings
+crazy_strings(.upcase.reverse,.swapcase)
