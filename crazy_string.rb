@@ -6,4 +6,4 @@ second_string = second_string.swapcase
 return "#{first_string} #{second_string}"
 end
 
-crazy_strings("Hello","Friends")
+crazy_strings("Hello","Friendz")
